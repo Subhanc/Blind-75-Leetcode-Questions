@@ -1,5 +1,7 @@
 # Blind-75-Leetcode-Questions
 
+Blind 75 questions to leetcode
+
 ### **Array**
 
 - [ ]  [Two Sum](https://leetcode.com/problems/two-sum/)
